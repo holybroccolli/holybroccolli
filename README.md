@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-https://wiki.postgresql.org/wiki/File:PostgreSQL_logo.3colors.120x120.png
+![PostgreSQL Logo](https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/postgresql/postgresql-plain.svg) 
+![Python Logo](https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original.svg)
+![NumPy Logo](https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/numpy/numpy-original.svg)
+![Pandas Logo](https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/pandas/pandas-original.svg)
 
 <!--
 **holybroccolli/holybroccolli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
