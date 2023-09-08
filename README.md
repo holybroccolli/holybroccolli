@@ -1,6 +1,6 @@
 ### Hi there 👋 ща разберусь)
 
-![Pandas Logo][https://github.com/holybroccolli/datasets/blob/main/icons/pandas-original.svg]
+![Pandas Logo](https://github.com/holybroccolli/datasets/blob/main/icons/pandas-original.svg)
 
 
 
