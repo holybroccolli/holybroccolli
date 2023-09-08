@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+https://wiki.postgresql.org/wiki/File:PostgreSQL_logo.3colors.120x120.png
+
 <!--
 **holybroccolli/holybroccolli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
