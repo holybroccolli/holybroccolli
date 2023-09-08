@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 ща разберусь)
 
 ![PostgreSQL Logo](https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/postgresql/postgresql-plain.svg) 
 ![Python Logo](https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original.svg)
