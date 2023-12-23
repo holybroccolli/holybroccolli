@@ -6,7 +6,6 @@ Stack (in order of importance)
 
 <img src="https://github.com/holybroccolli/datasets/blob/main/icons/python-original.svg" width=70><img src="https://github.com/holybroccolli/datasets/blob/main/icons/postgresql-original.svg" width=70><img src="https://github.com/holybroccolli/datasets/blob/main/icons/pandas-original.svg" width=70><img src="https://github.com/holybroccolli/datasets/blob/main/icons/numpy-original.svg" width=70><img src="https://github.com/holybroccolli/datasets/blob/main/icons/plt.png" width=70><img src="https://github.com/holybroccolli/datasets/blob/main/icons/scikit-learn.svg" width=120><img src="https://github.com/holybroccolli/datasets/blob/main/icons/knime-original.svg" width=70><img src="https://github.com/holybroccolli/datasets/blob/main/icons/looker_original.svg" width=37>
 
-[111](https://github.com/holybroccolli))
 <!--
 **holybroccolli/holybroccolli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
